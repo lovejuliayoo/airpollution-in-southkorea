@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Air Pollution in South Korea
+by Jin Yoo
 
-You can use the [editor on GitHub](https://github.com/lovejuliayoo/airpollution-in-southkorea/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This dataset describes the measure of the pollutants, PM2.5 and PM10 from 2016 to 2019 in Seoul, South Korea. It was downloaded from the [kaggle](https://www.kaggle.com/bappekim/air-pollution-in-seoul) website. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TODO: Put visualization here
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lovejuliayoo/airpollution-in-southkorea/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+As per the above visualiztion, it appears that the air pollution is rising in Seoul, South Korea. Particulate Matter (PM) is the sum of all solid and liquid particles in the air. PM2.5 is the smaller versions of  This visualization shows that PM2.5 and PM10 has sychronized growth.
